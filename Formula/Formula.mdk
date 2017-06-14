@@ -1,0 +1,29 @@
+Title         : Формулы для диплома
+
+Author        : Дмитрий Александрович Бобырев
+Affiliation   : МАИ, каф. 303, гр. 3О-505С
+Email         : musickiller@yandex.ru
+
+[TITLE]
+
+[TOC]
+
+# Математическая модель ЛА
+
+
+
+
+
+# Математическая модель БИНС (надо ли?)
+## Матрицы перехода
+### Матрица перехода от ГСК в ГЦСК
+
+Матрица перехода от ГСК в ГЦСК [#Cge]:
+
+~ Equation { #Cge }
+Cge = \begin{vmatrix}
+  -\sin\lambda \cdot \sin\phi & \sin\lambda \cdot \cos\phi & \cos\phi \\
+  \cos\phi & \sin\phi & 0 \\
+  -\cos\lambda \cdot \sin\phi & \cos\lambda \cdot \cos\phi & -\sin\lambda
+  \end{vmatrix}
+~
