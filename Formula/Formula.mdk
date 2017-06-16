@@ -27,3 +27,12 @@ Cge = \begin{vmatrix}
   -\cos\lambda \cdot \sin\phi & \cos\lambda \cdot \cos\phi & -\sin\lambda
   \end{vmatrix}
 ~
+
+
+### Матрица перехода от ССК в систему Север-верх-восток
+~ Equation { #eq-euler }
+^{SSK}{\boldsymbol{R}}^{NUE} = \left[\begin{matrix}\cos{\left (\phi_{s} \right )} \cos{\left (\theta_{s} \right )} & \sin{\left (\theta_{s} \right )} & - \sin{\left (\phi_{s} \right )} \cos{\left (\theta_{s} \right )}\\\sin{\left (\gamma_{s} \right )} \sin{\left (\phi_{s} \right )} - \sin{\left (\theta_{s} \right )} \cos{\left (\gamma_{s} \right )} \cos{\left (\phi_{s} \right )} & \cos{\left (\gamma_{s} \right )} \cos{\left (\theta_{s} \right )} & \sin{\left (\gamma_{s} \right )} \cos{\left (\phi_{s} \right )} + \sin{\left (\phi_{s} \right )} \sin{\left (\theta_{s} \right )} \cos{\left (\gamma_{s} \right )}\\\sin{\left (\gamma_{s} \right )} \sin{\left (\theta_{s} \right )} \cos{\left (\phi_{s} \right )} + \sin{\left (\phi_{s} \right )} \cos{\left (\gamma_{s} \right )} & - \sin{\left (\gamma_{s} \right )} \cos{\left (\theta_{s} \right )} & - \sin{\left (\gamma_{s} \right )} \sin{\left (\phi_{s} \right )} \sin{\left (\theta_{s} \right )} + \cos{\left (\gamma_{s} \right )} \cos{\left (\phi_{s} \right )}\end{matrix}\right]
+~
+
+# Силы, действующие на ЛА
+
