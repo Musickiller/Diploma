@@ -51,7 +51,6 @@ locale        : ru_RU
 # Математическая модель движения ЛА 
 
 ~ Center
-Динамическая модель ЛА:
 
 ![dyn.mod.LA]
 ~
@@ -70,7 +69,6 @@ famous too:
 # Схема алогоритма БИНС
 
 ~ Center
-Общая схема вычисления БИНС
 
 ![Obshaya schema vychislenitya BINS]
 ~
