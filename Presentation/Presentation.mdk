@@ -51,7 +51,13 @@ can see them if you open the speaker notes window (hit 's' on your keyboard).
 
 # Схема алогоритма БИНС
 
-Тут будет алгоритмизированный код, или простая схемка.
+~ Center
+Общая схема вычисления БИНС
+
+![Obshaya schema vychislenitya BINS]
+~
+
+[Obshaya schema vychislenitya BINS]: images/Obshaya-schema-vychislenitya-BINS.PNG "Obshaya schema vychislenitya BINS" { width:auto; max-width:90% }
 
 
 # Алгоритм начальной выставки
