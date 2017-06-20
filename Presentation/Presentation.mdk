@@ -1,31 +1,48 @@
 [INCLUDE=presentation]
-Title         : Исследование
-Sub Title     : влияния погрешности начальной выставки на точность БИНС
-Author        : Дмитрий Александрович Бобырев
-Affiliation   : МАИ
+Title         : 
+Sub Title     : Дипломная работа на тему "Исследование влияния погрешности начальной выставки на точность БИНС"
+Author        : студент: Бобырев Д.А.
+Affiliation   : МАИ, кафедра 303
+Author        : руководитель: Капырин Н.И.
+Affiliation   : МАИ, кафедра 303
 Reveal Theme  : serif
 Beamer Theme  : singapore
 locale        : ru_RU
 
+
 [TITLE]
 
-# Содержание
 
-[TOC]
 
 # Вступление
 
-# Математическая модель движения ЛА
+Моделирование приборов летательных аппаратов (ЛА) подразумевает освоение
+новых инструментов математического моделирования систем.
 
-And any Madoko features just work. Here is some math:
-~ Begin Framed { padding:1ex; margin-top:1ex }
+В работе рассмотрены: математическая модель движения ЛА, схема алгоритма
+БИНС, алгоритм начальной выставки, этапы реализации БИНС. Результаты
+моделирования представлены в виде графиков.
+
+
+
+
+## Математическая модель движения ЛА
+
+~ Center
+Динамическая модель ЛА:
+
+![dyn.mod.LA]
+~
+
+[dyn.mod.LA]: images/dyn.mod.LA.png "dyn.mod.LA" { width:auto; max-width:50% }
+
 A famous equation is $e = mc^2$, but this one is 
 famous too:
 
 ~ Equation  {#eq-gaussian}
 \int_{-\infty}^\infty e^{-a x^2} d x = \sqrt{\frac{\pi}{a}} 
 ~
-~ End Framed
+
 
 ~~ Notes
 Oh hey, these are some notes. They'll be hidden in your presentation, but you
