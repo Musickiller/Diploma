@@ -51,19 +51,10 @@ locale        : ru_RU
 # Математическая модель движения ЛА 
 
 ~ Center
-
-![dyn.mod.LA]
+![dyn.mod.LA.hor.scale.trans]
 ~
 
-[dyn.mod.LA]: images/dyn.mod.LA.png "dyn.mod.LA" { width:auto; max-width:50% }
-
-A famous equation is $e = mc^2$, but this one is 
-famous too:
-
-~ Equation  {#eq-gaussian}
-\int_{-\infty}^\infty e^{-a x^2} d x = \sqrt{\frac{\pi}{a}} 
-~
-
+[dyn.mod.LA.hor.scale.trans]: images/dyn.mod.LA.hor.scale.trans.svg "dyn.mod.LA.hor.scale.trans" { height: auto; max-height: 70%; width: auto; max-width: 60% }
 
 
 # Схема алогоритма БИНС
